@@ -1,0 +1,14 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># UDU NAXI\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 997fc4743c401db890c56abd6a33b6c1510a4e66)
++++ b/README.md	(date 1704715597571)
+@@ -1,1 +1,2 @@
+-# UDU NAXI
++# UDU NAXIdsfsdf
++
