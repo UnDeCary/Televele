@@ -6,10 +6,12 @@ from aiogram import types
 from aiogram.filters import CommandStart,Command
 from random import randint
 import  json
+from  dotenv import load_dotenv
+import os
+load_dotenv()
 
 
-
-bot= Bot(token='6631494300:AAGfvjcqtqTHY-JIzfvzvDKrSov0bP69lMY')
+bot= Bot(token=os.getenv("TOKEN"))
 
 dp= Dispatcher()
 
